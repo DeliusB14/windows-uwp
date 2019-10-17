@@ -68,7 +68,7 @@ Part of the reveal-or-hide technique includes choosing when to display more meta
 - In a music app, you can display more info about an album or artist.
 - In a video app, you can display more info about a film or a show, such as showing cast and crew details.
 - In any app, you can break apart columns and reveal more details.
-- In any app, you can take something that's vertically stacked and lay it out horizontally. When going from phone or phablet to larger devices, stacked list items can change to reveal rows of list items and columns of metadata.
+- In any app, you can take something that's vertically stacked and lay it out horizontally. When going from phone or tablet to larger devices, stacked list items can change to reveal rows of list items and columns of metadata.
 
 ## Replace
 
